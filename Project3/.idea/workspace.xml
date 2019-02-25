@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ff5a78f-18a3-451f-8354-2616853a3151" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boundedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/Foothill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/LinkedListofFloats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/StackNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/classGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week6Testing/src/smallNodeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7Testing/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7Testing/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7Testing/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7Testing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7Testing/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7Testing/week7Testing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week6Testing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleBounded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleBounded.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -45,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/boundedStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -55,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/node.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -177,8 +163,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="23" width="1349" height="805" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.13083397" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.1323642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -225,24 +212,24 @@
     <entry file="file://$PROJECT_DIR$/Project3.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node.java">
+    <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/boundedStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
+    <entry file="file://$PROJECT_DIR$/src/node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
